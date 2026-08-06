@@ -1,2 +1,27 @@
-# chexpert-racial-fairness
-A research project exploring the impact of racial representation on deep learning-based Computer Aided Diagnosis (CAD) systems using the CheXpert dataset.
+# Investigating Racial Fairness in Chest X-ray AI
+
+Short project summary
+
+---
+
+## Overview
+
+## Motivation
+
+## Research Questions
+
+## Dataset
+
+## Repository Structure
+
+## Tech Stack
+
+## Project Roadmap
+
+## Current Progress
+
+## Results
+
+## Future Work
+
+## References
