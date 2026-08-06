@@ -1,4 +1,4 @@
-# Investigating Racial Fairness in Chest X-ray AI
+# Investigating Racial Fairness in CAD Systems for Chest Radiographs
 
 Short project summary
 
