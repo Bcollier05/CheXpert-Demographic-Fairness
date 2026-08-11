@@ -18,6 +18,7 @@ Short project summary
 
 ### Links
 **Chexpert Original Dataset:** https://aimi.stanford.edu/datasets/chexpert-chest-x-rays
+
 **Chexpert Kaggle Dataset:** https://www.kaggle.com/datasets/ashery/chexpert
 ### Description
 Chest radiographs are used to train and evaluate deep learning models for six thoracic diseases. The dataset includes patient metadata such as age, sex, and imaging view. Additional demographic information is incorporated for fairness analysis.
