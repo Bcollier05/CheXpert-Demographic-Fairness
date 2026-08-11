@@ -9,6 +9,9 @@ Short project summary
 ## Motivation
 
 ## Research Questions
+1. Can patient race be inferred from chest radiographs using deep learning?
+2. Do CAD models perform differently across racial groups?
+3. Does incorporating demographic information improve diagnostic performance?
 
 ## Dataset
 
