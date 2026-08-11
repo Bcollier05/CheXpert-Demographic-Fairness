@@ -9,19 +9,29 @@ To characterize the demographic, clinical, and imaging composition of the CheXpe
 "What does my dataset look like, and what differences exist between the groups I'm going to compare?"
 
 **1. Who is represented?**
+
   How many patients per target racial groups?
+  
   Are some groups heavily underrepresented?
+  
   Are age, sex, and ethnicity distributed differently?
   
 **2. What diseases are represented?**
+
   How common is each disease?
+  
   Are certain diseases more prevalent in certain racial groups?
+  
   Are there large differences in positive/negative/uncertain labels?
   
 **3. What does the imaging data look like?**
+
   How many images?
+  
   How many images per patient?
+  
   What views are represented?
+  
   Are there differences in image characteristics between groups?
 
 ### Research Goal
