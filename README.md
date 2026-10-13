@@ -10,9 +10,7 @@ Short project summary
 
 ## Research Questions
 
-1. Can patient race be inferred from chest radiographs using deep learning?
-2. Do CAD models perform differently across racial groups?
-3. Does incorporating demographic information improve diagnostic performance?
+
 
 ## Dataset
 
@@ -32,8 +30,6 @@ Chest radiographs are used to train and evaluate deep learning models for six th
 - [ ] **Data Analysis & EDA** — Dataset exploration, SQL analysis, and cleaning
 - [ ] **Baseline Modeling** — Train and evaluate the initial CAD model
 - [ ] **Fairness Analysis** — Evaluate performance across racial groups
-- [ ] **Race Prediction** — Determine whether race can be inferred from chest X-rays
-- [ ] **Demographic Analysis** — Evaluate the impact of demographic information on predictions
 - [ ] **Final Evaluation** — Compare models and findings
 
 
