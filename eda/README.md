@@ -70,7 +70,8 @@ representation may affect model training and evaluation.
 
 #### Interpretation
 
-Age differed across the four target racial/ethnic groups. White patients had the highest mean age (~64 years) and median age (65 years), while Hispanic patients had the lowest mean age (~51 years) and median age (51 years). The difference in mean age between these groups was approximately 13 years
+Age differed across the four target racial/ethnic groups. White patients had the highest mean age (~64 years) and median age (65 years), while Hispanic patients had the lowest mean age (~51 years) and median age (51 years). The difference in mean age between these groups was approximately 13 years.
+
 ---
 
 ### Gender
@@ -95,6 +96,7 @@ The percentages below represent the proportion of the four target-group populati
 #### Interpretation
 
 Male patients represented a slightly larger proportion of the target-group population across each racial/ethnic classification. White males represented the largest race-gender subgroup (36.76%), while Black females represented the smallest (2.82%).
+
 ---
 
 ## 4. Data Quality
@@ -158,7 +160,7 @@ These were not assigned to one of the four target racial/ethnic groups.
 
 ## 7. SQL Queries
 
-SQL queries used for this analysis are located in the sql/ directory.
+SQL queries used for this analysis are located in https://github.com/Bcollier05/CheXpert-Demographic-Fairness/tree/main/sql .
 
 
 
