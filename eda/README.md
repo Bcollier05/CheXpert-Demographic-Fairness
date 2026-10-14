@@ -69,6 +69,7 @@ representation may affect model training and evaluation.
 
 
 #### Interpretation
+
 Age differed across the four target racial/ethnic groups. White patients had the highest mean age (~64 years) and median age (65 years), while Hispanic patients had the lowest mean age (~51 years) and median age (51 years). The difference in mean age between these groups was approximately 13 years
 ---
 
@@ -80,6 +81,7 @@ Age differed across the four target racial/ethnic groups. White patients had the
 - Does gender distribution differ across racial groups?
 
 #### Results
+
 The percentages below represent the proportion of the four target-group population (53,845 patients) represented by each race-gender subgroup.
 
 | Race     | Patients | Female (% of Target Groups) | Male (% of Target Groups) |
@@ -91,6 +93,7 @@ The percentages below represent the proportion of the four target-group populati
 
 
 #### Interpretation
+
 Male patients represented a slightly larger proportion of the target-group population across each racial/ethnic classification. White males represented the largest race-gender subgroup (36.76%), while Black females represented the smallest (2.82%).
 ---
 
